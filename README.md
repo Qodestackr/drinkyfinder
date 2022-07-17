@@ -27,4 +27,3 @@ FIREBASE_PROJECT_ID=
 -   [Chakra UI](https://chakra-ui.com/)
 -   [Apollo GraphQL](https://www.apollographql.com/docs/react/)
 -   [Hasura](https://hasura.io/)
--   [Prettier](https://prettier.io/)
