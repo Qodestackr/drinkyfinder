@@ -23,7 +23,7 @@ FIREBASE_PROJECT_ID=
 ## Built Using
 
 -   [Next.js](https://nextjs.org/)
--   [Now](https://zeit.co/now)
+-   Vercel
 -   [Chakra UI](https://chakra-ui.com/)
 -   [Apollo GraphQL](https://www.apollographql.com/docs/react/)
 -   [Hasura](https://hasura.io/)
